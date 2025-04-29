@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Your Name</title>
+  <title>marc</title>
   <style>
     body {
       font-family: instrument serif;
@@ -54,12 +54,15 @@
 <body>
   <header>
     <h1>Your Name</h1>
-    <p>A short bio or welcome message goes here. You can change this anytime.</p>
+    <p>this is a site to publish my latest</p>
   </header>
 
   <main>
-    <h2>Section Title</h2>
-    <p>This is a section of content. Add text, images, or links here. Keep it clean and focused.</p>
+    <h2> - </h2>
+    <p>to participate in society is to join or connect firms, 
+groups of people that get together to deliver products or services to the world, organic or artificial. 
+Those of us that choose to participate get up every day and enter the stream of communications between them.
+Add text, images, or links here. Keep it clean and focused.</p>
 
     <img src="your-image.jpg" alt="Description of image" style="max-width: 100%; height: auto;" />
   </main>
