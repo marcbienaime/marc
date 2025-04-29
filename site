@@ -6,7 +6,7 @@
   <title>Your Name</title>
   <style>
     body {
-      font-family: sans-serif;
+      font-family: instrument serif;
       background-color: #fdfdfd;
       color: #111;
       margin: 0;
@@ -66,9 +66,9 @@
 
   <footer>
     <div class="menu">
-      <a href="https://www.linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
-      <a href="https://twitter.com/yourhandle" target="_blank">X</a>
-      <a href="https://open.spotify.com/user/yourusername" target="_blank">Spotify</a>
+      <a href="https://www.linkedin.com/in/mbienaime" target="_blank">LinkedIn</a>
+      <a href="https://twitter.com/marcbienaime" target="_blank">X</a>
+      <a href="https://open.spotify.com/user/" target="_blank">Spotify</a>
       <a href="/archive">Archive</a>
     </div>
     <div class="last-updated">Last updated: April 23, 2025</div>
